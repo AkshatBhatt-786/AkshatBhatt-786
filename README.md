@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AkshatBhatt-786
-- 👀 I’m interested in Artificial Intelligence, Machine Learning and Data Science
+- 👀 I’m intrested in app development, and web development.
 - 🌱 I’m currently learning Python, Java, Php, Android
 - 💞️ I’m looking to collaborate on Team Building Activities, Machine Learning.
 - 📫 How to reach me ? you can mail me on akshatbhatt0786@gmail.com
