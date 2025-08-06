@@ -1,33 +1,38 @@
 # 👋 Hello! I'm Akshat Bhatt
 
-Welcome to my GitHub profile! I'm a passionate **software developer** and **web developer** who loves learning, building, and collaborating on exciting projects. Here's a little more about me:
+Welcome to my GitHub profile! I'm an aspiring **Cloud Engineer** and **Software Developer** currently pursuing my **B.Tech in Information Technology** from **Dharmsinh Desai University (DDU), Nadiad**.
 
 ---
 
 ## 🚀 About Me
 
 - 🔧 **What I do:**  
-  I design and develop **software applications** and **web solutions** that are efficient, user-friendly, and scalable. My goal is to turn ideas into impactful digital experiences.
+  I design and develop **software applications**, explore **cloud infrastructure**, and aim to build secure, scalable digital solutions.
+
+- ☁️ **Where I’m headed:**  
+  I’m shifting my focus to **Cloud Engineering** — diving deep into cloud platforms like **AWS**, **Azure**, and **Google Cloud**, and learning about **DevOps**, **containerization**, and **infrastructure automation**.
 
 - 🌱 **What I'm learning:**  
-  I'm currently exploring **Python**, **Java**, and **PHP** to deepen my knowledge and expand my skill set. I'm also interested in mastering frameworks and tools that make development faster and better.
+  Expanding my skills in **Python**, **Java**, **PHP**, and cloud-native technologies.  
+  Also exploring tools like **Docker**, **Kubernetes**, **Terraform**, and **CI/CD pipelines**.
 
 - 🤝 **What I value:**  
-  Collaboration is at the heart of everything I do. Whether it's working in teams, contributing to open-source projects, or brainstorming new ideas, I believe teamwork leads to great results.
+  I believe in the power of collaboration, clean code, and continuous learning. I love being part of projects that make a real impact.
 
 ---
 
 ## 💡 Interests and Goals
 
-- I’m passionate about building **modern, responsive, and secure websites**.  
-- I aim to develop **software solutions** that solve real-world problems.  
-- I'm always looking for opportunities to improve my **teamwork**, **communication**, and **development skills**.  
+- Building and managing **cloud-based architectures**.  
+- Designing **scalable and resilient** software systems.  
+- Contributing to **open-source** and **collaborative learning**.  
+- Growing as a **developer and future cloud solutions architect**.
 
 ---
 
-## 📫 Let's Connect!  
+## 📫 Let’s Connect!
 
-If you’d like to collaborate or discuss exciting ideas, feel free to reach out to me:  
-📧 **akshatbhatt0786@gmail.com**  
+Got an idea or want to collaborate? I’d love to connect!  
+📧 **akshatbhatt0786@gmail.com**
 
-I’d love to connect and work together on meaningful projects!  
+Let’s build something amazing together!  
