@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 After scoring 92% in my 10th boards, my biggest curiosity wasn't about academics—it was a simple question: How exactly is a movie or a song stored inside a computer's memory? That curiosity led me down a rabbit hole where I discovered the fundamental truth of computer science: computers don't store physical media; they just translate everything in the world into an endless sequence of binary bits—0s and 1s.<br><br>That realization sparked a lifelong obsession with technology. I'm Akshat Bhatt, an IT engineering student at DDIT Nadiad and a Full Stack Developer. Today, my fascination with how data is stored has evolved into a passion for how data is engineered, scaled, and served. With a strong foundation in Java, Python, and C/C++, I am actively focused on System Design and AWS Cloud Architecture. I build practical, purpose-driven applications, engineering robust systems from the database up to the user interface.
 
 
